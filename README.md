@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @SIANG-LING fell free to call me Celine.
-- 👀 I’m interested in Data Science, coding and analysis.
-- 🌱 I’m currently learning Master degree in Fordham University
-- 💞️ I’m looking to collaborate on intern in 2022 Fall.
+- 👋 Hi, I’m @SIANG-LING.
+- 👀 I am a data scientist. I graduated from Fordham University Master Business Analytics
 - 📫 How to reach me - shsu18@fordham.edu
 
 <!---
